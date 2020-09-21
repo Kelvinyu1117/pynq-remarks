@@ -1,1 +1,1 @@
-# pynq-remarks
+# PYNQ Remarks
