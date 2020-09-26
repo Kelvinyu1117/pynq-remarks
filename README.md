@@ -18,7 +18,7 @@ https://pynq.readthedocs.io/en/latest/getting_started/pynq_z2_setup.html
 
   - Assign static address to the port of the PC
   
-  | ip          | Subnet Mask   |
+  | IP          | Subnet Mask   |
   |-------------|---------------|
   | 192.168.2.x | 255.255.255.0 |
   
